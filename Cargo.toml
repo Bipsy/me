@@ -5,3 +5,5 @@ authors = ["Peter Anderson <anderson.peter@byu.edu>"]
 
 [dependencies]
 iron = "*"
+staticfile = "*"
+mount = "*"
